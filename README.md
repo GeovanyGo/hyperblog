@@ -8,3 +8,5 @@ Vamos a escribir algo que se vea bonito y sirva para rellenar espacio, porque ho
 - El verdadero amor por las buenas practicas
 - Trucos muy locos del profesor
 - Las persoanlidades multiples de Freddy 
+
+Creado por el increible platzi team
